@@ -1,0 +1,64 @@
+p 
+{
+	color:white;
+	text-align:left;
+	font-family: Arial;
+	font-size: 15pt;
+	font-weight:;
+	text-indent: 40pt;
+}
+h3
+{
+	color: white;	
+	font-family: Arial;
+	font-size: 16pt;
+	font-weight: bold;
+	float: left;
+}
+h1	
+{
+	color: white;
+	text-align: center;
+}
+
+h4
+{
+	font-size: 15pt;
+	font-family: verdana;
+}	
+h2 
+{
+	float: right;
+	color: purple;
+}
+a:link 
+{
+	color: gray;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited 
+{
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover 
+{
+	color: black;
+	background-color: transparent;
+	text-decoration: underline;
+}
+a:active 
+{
+	color: green;
+	background-color: transparent;
+	text-decoration: underline;
+}
+h4
+	{
+		color :grey;
+		text-align: right;
+		text-decoration:none;
+		font-size: 25pt;	
+	}
